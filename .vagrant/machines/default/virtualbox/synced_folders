@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Laura Sarita G M/Desktop/Prueba2/htdocs","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Laura Sarita G M/Desktop/Prueba2","disabled":false,"__vagrantfile":true}}}
