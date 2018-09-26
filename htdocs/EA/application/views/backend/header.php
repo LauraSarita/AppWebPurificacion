@@ -87,7 +87,7 @@
                 
                 
                 <li >
-                    <a href="http://127.0.0.1/EA/reporte.php"  class="menu-item" title="<?= lang('report_hint') ?>">
+                    <a href="http://192.168.33.10/EA/reporte.php"  class="menu-item" title="<?= lang('report_hint') ?>">
                         <?= lang('report') ?>
                     </a>
                 </li>
