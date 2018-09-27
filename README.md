@@ -14,7 +14,7 @@ _El proyecto va dirigido a los usuarios de hospitales para que puedan pedir una 
 
 ## Pasos
 
-El primer paso es abrir el **Bash** del computador en la carpeta donde se encuente el archivo VagrantFile , utiliza el comando **Vagrant up**.
+El primer paso es abrir el **Bash** del computador en la carpeta donde se encuente el archivo **VagrantFile** , utiliza el comando **Vagrant up**.
 
 Para ver la aplicacion de citas medicas vista usuario es necesario ingresar la direccion IP: `"http://192.168.33.10/EA/"` en el navegador.
 
