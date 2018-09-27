@@ -1,6 +1,6 @@
 # AppWebPurificacion
 
-_El proyecto va dirigido a los usuarios de hospitales para que puedan pedir una cita medica de una forma rapida y confiable_
+_El proyecto va dirigido a los usuarios de hospitales para que puedan pedir una cita medica de una forma rapida y confiable._
 
 
 
@@ -32,6 +32,7 @@ Finamente para ingresar a **PhpMyAdmin** es con la siguiente direccion : `"http:
 
 
 * [EasyAppoiment](http://easyappointments.org) - El framework web usado
+* [Apache](http://httpd.apache.org) - Servidor web HTTP.
 
 
 
