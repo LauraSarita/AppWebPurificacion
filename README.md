@@ -10,6 +10,7 @@ _El proyecto va dirigido a los usuarios de hospitales para que puedan pedir una 
 ```
  1. Instalar Vagrant 
  2. Instalar VirtualBox
+ 3. Instalar GIT
 ```
 
 ## Pasos
