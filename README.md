@@ -4,7 +4,7 @@ _El proyecto va dirigido a los usuarios de hospitales para pedir una cita medica
 
 
 
-![img](http://i.imgur.com/error.png)
+![img](http://i.imgur.com/C:/Users/Laura Sarita G M/Documents/BACKUP PROYECTO-PURIFICACION/Repositorio/htdocs/EA/assets/img/error.png)
 
 
 
