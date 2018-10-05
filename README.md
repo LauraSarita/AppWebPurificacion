@@ -4,10 +4,6 @@ _El proyecto va dirigido a los usuarios de hospitales para pedir una cita medica
 
 
 
-![img](http://i.imgur.com/Repositorio/htdocs/EA/assets/img/error.png)
-
-
-
 ## Para implementar la aplicacion en el hospital es necesario:
 
 
