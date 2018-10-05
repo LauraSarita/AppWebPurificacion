@@ -21,20 +21,25 @@ _El proyecto va dirigido a los usuarios de hospitales para pedir una cita medica
  Vagrant Up
 ```
 
-_La apliacion se instalara en el computador._
+_La aplicacion se instalara en el computador._
 
-* La aplicacion de citas medicas modo **vista usuario** es necesario ingresar la direccion IP: `"http://192.168.33.10/EA/"` en el navegador.
+* La aplicacion de citas medicas modo **Vista usuario** es necesario ingresar la direccion IP: `"http://192.168.33.10/EA/"` en el navegador.
 
 
 ![opera instantanea_2018-10-05_082706_appcitasmedicas herokuapp com](https://user-images.githubusercontent.com/18336182/46538163-d467c000-c878-11e8-98e7-eac42dc7fbc3.png)
 
 
 
-* Para ingresar al portal como  **administrador** se debe ingresar por la direccion: `"http://192.168.33.10/EA/index.php/user/login"`   la cual le pedira un usuario y contraseña. 
+* Para ingresar al portal como  **Administrador** se debe ingresar por la direccion: `"http://192.168.33.10/EA/index.php/user/login"`   la cual le pedira un usuario y contraseña. 
 
 > Usuario: admin 
 
 > Contraseña: hospital2018
+
+
+![admin](https://user-images.githubusercontent.com/18336182/46538573-f9106780-c879-11e8-8c1b-7a5b2e563217.png)
+
+
 
 * Finalmente para ingresar a **PhpMyAdmin** es con la direccion IP : `"http://192.168.33.10:80/phpmyadmin/"` es necesario , agregar la base de datos de la aplicacion web. 
 
